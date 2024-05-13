@@ -1,0 +1,9 @@
+main {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+#counter {
+  font-size: 2rem;
+}

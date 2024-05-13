@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <!-- https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP -->
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self'; script-src 'self'"
+    />
+    <link rel="stylesheet" href="./src/styles/globals.css" />
+    <title>Electron App</title>
+  </head>
+  <body>
+    <main>
+      <h1>Hello Electron!</h1>
+      <div id="box">
+        <div id="counter">0</div>
+        <div id="btns">
+          <button id="increment">Increment</button>
+          <button id="decrement">Decrement</button>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>
+
+<script src="./src/app.js"></script>
