@@ -12,22 +12,22 @@ This repository provides a well-structured, ready-to-use starter project for bui
 
 1. **Prerequisites:**
 
-   - Node.js (version 18 or later) installed: https://nodejs.org/en/download
-   - Bun installed: https://bun.sh/docs/installation
+   - Node.js (version 18 or later) installed: <https://nodejs.org/en/download>
+   - Bun installed: <https://bun.sh/docs/installation>
 
-2. **Clone the Repository:**
+1. **Clone the Repository:**
 
 ```bash
 gh repo clone creative-tutorials/electron-app
 ```
 
-3. Install Dependencies:
+1. **Install Dependencies**
 
 ```bash
 bun install
 ```
 
-4. Run the app:
+2. **Run the app**
 
 ```bash
 bun run start
@@ -42,24 +42,24 @@ Project Structure:
 - index.html: This is the template for the Electron window.
 - package.json: Contains project metadata, dependencies, and scripts.
 
-### Typescript Setup:
+## Typescript Setup
 
 The project utilizes Typescript for enhanced code clarity and maintainability. You can leverage code editors like VS Code or editors with Typescript plugins to benefit from type checking and code completion.
 
-### Bun Integration:
+### Bun Integration
 
 This project is configured to use Bun for faster development and potentially increased application execution speed. You'll enjoy a smoother development experience with Bun's improved performance.
 
-### Customization:
+### Customization
 
 Modify the `main.js` file to create your desired functionality.
 The package.json file allows you to personalize project details and scripts.
 
-### Contributing:
+### Contributing
 
 We welcome contributions to this project! Feel free to submit pull requests with bug fixes, enhancements, or new features.
 
-### License:
+### License
 
 This project is licensed under the MIT License (see LICENSE file).
 
