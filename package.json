@@ -1,6 +1,7 @@
 {
   "name": "electron-app",
   "module": "index.ts",
+  "version": "0.0.1",
   "main": "main.js",
   "type": "module",
   "devDependencies": {
@@ -13,10 +14,16 @@
   "scripts": {
     "start": "electron ."
   },
+  "author": {
+    "name": "Your Name"
+  },
+  "license": "MIT",
+  "description": "Electron starter app with Bun",
   "peerDependencies": {
     "typescript": "^5.0.0"
   },
   "dependencies": {
-    "@electron/typescript-definitions": "^8.15.6"
+    "@electron/typescript-definitions": "^8.15.6",
+    "electron-squirrel-startup": "^1.0.0"
   }
 }
