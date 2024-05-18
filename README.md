@@ -6,7 +6,7 @@ This repository provides a well-structured, ready-to-use starter project for bui
 
 - **Electron Integration:** A streamlined setup for building cross-platform desktop apps with native functionalities.
 - **Typescript Support:** Benefit from type safety and improved code maintainability with built-in Typescript support.
-- **Bun Integration:** Leverage Bun's exceptional performance for a faster development experience and potentially faster applications.
+- **Bun Integration:** Make use of Bun’s outstanding performance for more efficient experience and that would make applications faster.
 
 **Getting Started:**
 
@@ -48,7 +48,7 @@ The project utilizes Typescript for enhanced code clarity and maintainability. Y
 
 ### Bun Integration
 
-This project is configured to use Bun for faster development and potentially increased application execution speed. You'll enjoy a smoother development experience with Bun's improved performance.
+For faster development and the possible increase in the speed of application execution, this project is designed using Bun. You'll have a lot easier time developing your project because of Bun's improved performance.
 
 ### Customization
 
